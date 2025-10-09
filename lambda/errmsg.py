@@ -8,4 +8,6 @@ try:
 except ZeroDivisionError as err:
     print(err)
     
+#This statement is just check 'except' is work or not
+  
 print("hello")
