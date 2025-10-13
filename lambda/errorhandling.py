@@ -7,5 +7,5 @@ try:
     print(a/b)
 except:
     print(a/1)
-    
-print("hello")
+#This statement is just check 'except' is work or not
+print("Hello World!!!!")
